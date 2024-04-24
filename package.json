@@ -1,0 +1,16 @@
+{
+  "name": "ts-demo",
+  "version": "1.0.0",
+  "description": "Proyecto ejemplo para el desarrollo con TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "demo"
+  ],
+  "author": "Katherine Builes",
+  "license": "ISC"
+}
